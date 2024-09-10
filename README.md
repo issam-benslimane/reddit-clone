@@ -10,7 +10,7 @@ Create Post Page
 ![img_2.png](img_2.png)
 
 Create Subreddit Page
-![img_3.png](img_3.png)Create Subreddit Page
+![img_3.png](img_3.png)
 
 User Profile Page
-![img_4.png](img_4.png)User Profile Page
+![img_4.png](img_4.png)
